@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Portfolio_UE_CPP",
+			"Path": "..\\Source\\Portfolio_UE_CPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Portfolio_UE_CPPEditor",
+			"Path": "..\\Source\\Portfolio_UE_CPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

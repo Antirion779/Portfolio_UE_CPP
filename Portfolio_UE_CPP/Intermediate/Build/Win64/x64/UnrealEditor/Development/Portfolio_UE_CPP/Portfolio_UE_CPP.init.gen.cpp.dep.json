@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\portfolio_ue_cpp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\portfolio_ue_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\portfolio_ue_cpp\\definitions.portfolio_ue_cpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
