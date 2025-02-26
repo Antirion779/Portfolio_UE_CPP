@@ -82,6 +82,12 @@ void UAttackSystem::SwitchSwordAttack()
 
 void UAttackSystem::StopCombo()
 {
-	isAttacking = false;
-	AttackIndex = 0;
+	CanAttack = false;
+	FTimerHandle TimerHandle; //Timer To Prevent Fast DoubleClick ou similar
+	GetWorld()->GetTimerManager().SetTimer(TimerHandle, FTimerDelegate::CreateLambda([this]()
+	{
+		isAttacking = false;
+		AttackIndex = 0;
+		CanAttack = true;
+	}), .5f, false);
 }
