@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\attacksystem.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\portfolio_ue_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\portfolio_ue_cpp\\definitions.portfolio_ue_cpp.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\source\\portfolio_ue_cpp\\attacksystem.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\attacksystem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

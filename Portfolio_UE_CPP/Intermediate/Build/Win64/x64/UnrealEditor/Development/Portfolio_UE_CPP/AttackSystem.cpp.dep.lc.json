@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\source\\portfolio_ue_cpp\\attacksystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\portfolio_ue_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\portfolio_ue_cpp\\definitions.portfolio_ue_cpp.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\source\\portfolio_ue_cpp\\attacksystem.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\attacksystem.generated.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\source\\portfolio_ue_cpp\\paladin_character.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\source\\portfolio_ue_cpp\\portfolio_ue_cppcharacter.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\portfolio_ue_cppcharacter.generated.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\paladin_character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

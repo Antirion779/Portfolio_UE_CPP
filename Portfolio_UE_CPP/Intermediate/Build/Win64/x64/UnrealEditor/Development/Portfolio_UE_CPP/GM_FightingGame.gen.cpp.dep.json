@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\gm_fightinggame.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\portfolio_ue_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\portfolio_ue_cpp\\definitions.portfolio_ue_cpp.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\source\\portfolio_ue_cpp\\gm_fightinggame.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "d:\\github\\portfolio_ue_cpp\\portfolio_ue_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\portfolio_ue_cpp\\uht\\gm_fightinggame.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

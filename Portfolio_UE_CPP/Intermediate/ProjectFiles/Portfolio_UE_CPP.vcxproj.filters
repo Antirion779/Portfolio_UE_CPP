@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Portfolio_UE_CPPEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,24 @@
     <Filter Include="Source\Portfolio_UE_CPP">
       <UniqueIdentifier>{2D4C38E7-0AA1-31B0-BCBF-FC2B598A71D8}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Portfolio_UE_CPP\AttackSystem.cpp">
+      <Filter>Source\Portfolio_UE_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Portfolio_UE_CPP\AttackSystem.h">
+      <Filter>Source\Portfolio_UE_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Portfolio_UE_CPP\GM_FightingGame.cpp">
+      <Filter>Source\Portfolio_UE_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Portfolio_UE_CPP\GM_FightingGame.h">
+      <Filter>Source\Portfolio_UE_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Portfolio_UE_CPP\Paladin_Character.cpp">
+      <Filter>Source\Portfolio_UE_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Portfolio_UE_CPP\Paladin_Character.h">
+      <Filter>Source\Portfolio_UE_CPP</Filter>
+    </ClCompile>
     <None Include="..\..\Source\Portfolio_UE_CPP\Portfolio_UE_CPP.Build.cs">
       <Filter>Source\Portfolio_UE_CPP</Filter>
     </None>
